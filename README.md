@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/5e35e502-e756-4ce3-9eea-18aecbbb9d08
-
 <div align="center">
   <br />
   <h1>🪈 Krishnaji Flute — Bansuri Dhyaan</h1>
@@ -34,8 +30,7 @@ Welcome to **Krishnaji Flute** — an open-source, beautifully crafted meditatio
 *(Watch the preview of our meditation room in action)*
 
 
-
-
+https://github.com/user-attachments/assets/5e35e502-e756-4ce3-9eea-18aecbbb9d08
 
 ---
 
