@@ -29,7 +29,7 @@ Welcome to **Krishnaji Flute** — an open-source, beautifully crafted meditatio
 
 *(Watch the preview of our meditation room in action)*
 
-[![Watch the preview](assets/screenshot-1.png)](https://github.com/ShadowByte01/krishnaji-flute/raw/main/assets/preview-video.mp4)
+<video src="./assets/preview-video.mp4" controls="controls" muted="muted" playsinline="playsinline" width="100%"></video>
 
 ---
 
